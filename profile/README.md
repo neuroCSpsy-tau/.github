@@ -3,56 +3,78 @@
 Central hub for my university course notes and study websites  
 (Computer Science × Psychology × Neuroscience)
 
----
-
-## 🌐 Course Websites
-
-| Repository | Website | Tech | Status |
-|------------|---------|------|--------|
-| **CS1001** | https://orinlevi-neurocspsy.github.io/CS1001 | LaTeX, GitHub Pages | Active |
-| **Statistics1** | https://orinlevi-neurocspsy.github.io/Statistics1 | LaTeX, GitHub Pages | Active |
-| **Intro_to_psychology** | [https://orinlevi-neurocspsy.github.io/Intro_to_psychology](https://orinlevi-neurocspsy.github.io/Intro_to_psychology/) | LaTeX | Active |
-| **Discrete1** | https://orinlevi-neurocspsy.github.io/Discrete1 | LaTeX | Active |
-| **calculus1B** | https://orinlevi-neurocspsy.github.io/calculus1B | LaTeX | Active |
-| **Lini1B** | https://orinlevi-neurocspsy.github.io/Lini1B | LaTeX | Active |
-| **Seminar_Neuroscience** | https://orinlevi-neurocspsy.github.io/Seminar_Neuroscience | LaTeX | Active |
+All repositories contain structured course notes (mainly LaTeX/Markdown) and are published as study websites.
 
 ---
 
-## 📦 Repositories
+## 🔎 Quick navigation
 
-- CS1001 — Introduction to Computer Science  
-- Statistics1 — Statistics for Psychology  
-- Intro_to_psychology — Intro to Psychology  
-- Discrete1 — Discrete Mathematics  
-- calculus1B — Calculus 1B  
-- Lini1B — Linear Algebra 1B  
-- Seminar_Neuroscience — Neuroscience Seminar  
+- [📚 Year 1](#-year-1)
+  - [Semester A](#semester-a)
+    - [🧠 Psychology](#-psychology)
+    - [🧬 Neuroscience](#-neuroscience)
+    - [💻 Computer Science & Math Foundations](#-computer-science--math-foundations)
+- [🗺️ Roadmap](#️-roadmap)
+- [📬 Contact](#-contact)
+
+---
+
+# 📚 Year 1
+
+## Semester A
+
+---
+
+### 🧠 Psychology
+
+| Repository | Website | Tech |
+|------------|---------|------|
+| **Intro_to_psychology** | [Open](https://orinlevi-neurocspsy.github.io/Intro_to_psychology/) | LaTeX |
+| **Statistics1** | [Open](https://orinlevi-neurocspsy.github.io/Statistics1/) | LaTeX |
+
+---
+
+### 🧬 Neuroscience
+
+| Repository | Website | Tech |
+|------------|---------|------|
+| **Seminar_Neuroscience** | [Open](https://orinlevi-neurocspsy.github.io/Seminar_Neuroscience/) | LaTeX |
+
+---
+
+### 💻 Computer Science & Math Foundations
+
+| Repository | Website | Tech |
+|------------|---------|------|
+| **CS1001** | [Open](https://orinlevi-neurocspsy.github.io/CS1001/) | LaTeX |
+| **Discrete1** | [Open](https://orinlevi-neurocspsy.github.io/Discrete1/) | LaTeX |
+| **calculus1B** | [Open](https://orinlevi-neurocspsy.github.io/calculus1B/) | LaTeX |
+| **Lini1B** | [Open](https://orinlevi-neurocspsy.github.io/Lini1B/) | LaTeX |
 
 ---
 
 ## 🧩 What you’ll find
 
-- Structured course notes (LaTeX / Markdown)
-- Unit-based summaries
-- Figures and diagrams
-- GitHub Pages websites (for selected courses)
-- Continuous updates during the semester
+- Structured lecture notes and summaries  
+- Unit-based organization  
+- Figures and diagrams  
+- Study websites for each course  
+- Continuous updates during the semester  
 
 ---
 
 ## 🗺️ Roadmap
 
 Planned improvements:
-- Convert more courses to full websites
-- Add search and navigation to existing sites
-- Improve visual consistency across course sites
-- Add English abstracts to Hebrew notes
-- Add automated build & deploy pipelines (CI/CD)
+- Add navigation and search to all course websites  
+- Improve visual consistency across courses  
+- Add English abstracts to Hebrew notes  
+- Add automated build & deploy pipelines  
+- Expand to future semesters and courses  
 
 ---
 
 ## 📬 Contact
 
-For questions or collaboration:
+For questions or collaboration:  
 Open an Issue in the relevant repository.
