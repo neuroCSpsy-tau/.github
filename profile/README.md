@@ -47,7 +47,7 @@ and are published as study websites for easy navigation and learning.
 | Repository | Website | Tech |
 |------------|---------|------|
 | **CS1001** | [Open](https://orinlevi-neurocspsy.github.io/CS1001/) | LaTeX |
-| **Discrete** | [Open](https://orinlevi-neurocspsy.github.io/Discrete/) | LaTeX |
+| **Discrete** | [Open](https://orinlevi-neurocspsy.github.io/Discrete1/) | LaTeX |
 | **calculusB** | [Open](https://orinlevi-neurocspsy.github.io/calculusB/) | LaTeX |
 | **LiniB** | [Open](https://orinlevi-neurocspsy.github.io/LiniB/) | LaTeX |
 
