@@ -1,4 +1,4 @@
-# 🧠 neurocspsy-tau
+# 🧠 neuroCSpsy-tau
 
 Central hub for my university course notes and study websites  
 (Computer Science × Psychology × Neuroscience)
